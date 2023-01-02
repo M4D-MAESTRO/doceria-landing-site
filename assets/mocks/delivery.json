@@ -1,0 +1,23 @@
+[
+    {
+        "title": "IFood",
+        "link":"",
+        "ion_icon":"fast-food-outline",
+        "bg_color": "bg-orange-50",
+        "text_color": "text-orange-500"
+    },
+    {
+        "title": "Instagram",
+        "link":"https://www.instagram.com/doceriadathayrj/",
+        "ion_icon":"logo-instagram",
+        "bg_color": "bg-pink-50",
+        "text_color": "text-pink-500"
+    },
+    {
+        "title": "WhatsApp",
+        "link":"https://wa.me/5521992884510",
+        "ion_icon":"logo-whatsapp",
+        "bg_color": "bg-green-50",
+        "text_color": "text-green-500"
+    }
+]

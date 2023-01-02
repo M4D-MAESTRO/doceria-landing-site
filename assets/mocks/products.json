@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Docinhos tradicionais",
+        "description": "Escolha entre uma variedade tradicional: Brigadeiro, beijinho, morango, amendoim e dentre outros",
+        "value":"",
+        "image": "assets/imgs/produtos/docinho-tradicional.jpeg"
+    },
+    {
+        "title": "Docinhos gourmet",
+        "description": "Docinhos gourmet 100% artesanais: Oreo,",
+        "value":"",
+        "image": "assets/imgs/produtos/docinho-gourmet.jpeg"
+    },
+    {
+        "title": "Alfajor",
+        "description": "Macio, levemente crocante e com um recheio caprichado de doce de leite",
+        "value":"",
+        "image": "assets/imgs/produtos/alfajor-1.jpeg"
+    },
+    {
+        "title": "Bombom recheado",
+        "description": "Delicioso bombom recheado de brigadeiro e OREO",
+        "value":"",
+        "image": "assets/imgs/produtos/bombom-recheado.jpeg"
+    },
+    {
+        "title": "Tortas",
+        "description": "Deliciosas tortas de limão ou de maracujá!",
+        "value":"",
+        "image": "assets/imgs/produtos/torta-limao.jpeg"
+    },
+    {
+        "title": "Banoffee",
+        "description": "Seguindo a tradicional receita britânica, a banoffe é uma torta de banana com chantilly",
+        "value":"",
+        "image": "assets/imgs/produtos/banofe.jpeg"
+    },
+    {
+        "title": "Bolo",
+        "description": "Disponíveis nos sabores: ",
+        "value":"",
+        "image": "assets/imgs/produtos/bolo.jpeg"
+    },
+    {
+        "title": "Pavê",
+        "description": "Disponíveis nos sabores: morango, ",
+        "value":"",
+        "image": "assets/imgs/produtos/pave-morango.jpeg"
+    }
+]
